@@ -1,3 +1,3 @@
 # mariokarttool
 
-[htps://mariomliberio.github.io/mariokarttool/](Check it out!)
+[Check it out!](https://mariomliberio.github.io/mariokarttool/)
